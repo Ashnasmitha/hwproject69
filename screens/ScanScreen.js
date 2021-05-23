@@ -59,7 +59,7 @@ export default class ScanScreen extends React.Component {
           </Text>
           <View style={{marginTop:50,marginBottom:40}}>
             <Image source={
-              require('./assets/scanner.png')
+              require('../assets/scanner.png')
             }
             style={{width:120,height:120}}
             />
